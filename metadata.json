@@ -1,0 +1,6 @@
+{
+  "name": "SyllabusAI - Academic Hub",
+  "description": "Smart academic workspace for syllabus tracking, automated study schedules, AI concept explanations, and course deadline management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
